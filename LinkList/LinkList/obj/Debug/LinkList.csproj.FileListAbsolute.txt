@@ -1,0 +1,7 @@
+F:\dotNet practicales\LinkList\LinkList\bin\Debug\LinkList.exe.config
+F:\dotNet practicales\LinkList\LinkList\bin\Debug\LinkList.exe
+F:\dotNet practicales\LinkList\LinkList\bin\Debug\LinkList.pdb
+F:\dotNet practicales\LinkList\LinkList\obj\Debug\LinkList.csproj.AssemblyReference.cache
+F:\dotNet practicales\LinkList\LinkList\obj\Debug\LinkList.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\LinkList\LinkList\obj\Debug\LinkList.exe
+F:\dotNet practicales\LinkList\LinkList\obj\Debug\LinkList.pdb
