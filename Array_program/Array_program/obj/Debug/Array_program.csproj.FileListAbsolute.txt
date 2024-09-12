@@ -1,0 +1,7 @@
+F:\dotNet practicales\Array_program\Array_program\obj\Debug\Array_program.csproj.AssemblyReference.cache
+F:\dotNet practicales\Array_program\Array_program\obj\Debug\Array_program.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\Array_program\Array_program\bin\Debug\Array_program.exe.config
+F:\dotNet practicales\Array_program\Array_program\bin\Debug\Array_program.exe
+F:\dotNet practicales\Array_program\Array_program\bin\Debug\Array_program.pdb
+F:\dotNet practicales\Array_program\Array_program\obj\Debug\Array_program.exe
+F:\dotNet practicales\Array_program\Array_program\obj\Debug\Array_program.pdb
