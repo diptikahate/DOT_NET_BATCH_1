@@ -1,0 +1,7 @@
+F:\dotNet practicales\Basic_Datatype\Basic_Datatype\bin\Debug\Basic_Datatype.exe.config
+F:\dotNet practicales\Basic_Datatype\Basic_Datatype\bin\Debug\Basic_Datatype.exe
+F:\dotNet practicales\Basic_Datatype\Basic_Datatype\bin\Debug\Basic_Datatype.pdb
+F:\dotNet practicales\Basic_Datatype\Basic_Datatype\obj\Debug\Basic_Datatype.csproj.AssemblyReference.cache
+F:\dotNet practicales\Basic_Datatype\Basic_Datatype\obj\Debug\Basic_Datatype.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\Basic_Datatype\Basic_Datatype\obj\Debug\Basic_Datatype.exe
+F:\dotNet practicales\Basic_Datatype\Basic_Datatype\obj\Debug\Basic_Datatype.pdb
