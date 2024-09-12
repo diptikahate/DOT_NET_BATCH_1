@@ -1,0 +1,7 @@
+F:\dotNet practicales\Dynamic_Array\Dynamic_Array\bin\Debug\Dynamic_Array.exe.config
+F:\dotNet practicales\Dynamic_Array\Dynamic_Array\bin\Debug\Dynamic_Array.exe
+F:\dotNet practicales\Dynamic_Array\Dynamic_Array\bin\Debug\Dynamic_Array.pdb
+F:\dotNet practicales\Dynamic_Array\Dynamic_Array\obj\Debug\Dynamic_Array.csproj.AssemblyReference.cache
+F:\dotNet practicales\Dynamic_Array\Dynamic_Array\obj\Debug\Dynamic_Array.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\Dynamic_Array\Dynamic_Array\obj\Debug\Dynamic_Array.exe
+F:\dotNet practicales\Dynamic_Array\Dynamic_Array\obj\Debug\Dynamic_Array.pdb
