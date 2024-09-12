@@ -1,0 +1,7 @@
+F:\dotNet practicales\Unorder_dynamic_Array\Unorder_dynamic_Array\bin\Debug\Unorder_dynamic_Array.exe.config
+F:\dotNet practicales\Unorder_dynamic_Array\Unorder_dynamic_Array\bin\Debug\Unorder_dynamic_Array.exe
+F:\dotNet practicales\Unorder_dynamic_Array\Unorder_dynamic_Array\bin\Debug\Unorder_dynamic_Array.pdb
+F:\dotNet practicales\Unorder_dynamic_Array\Unorder_dynamic_Array\obj\Debug\Unorder_dynamic_Array.csproj.AssemblyReference.cache
+F:\dotNet practicales\Unorder_dynamic_Array\Unorder_dynamic_Array\obj\Debug\Unorder_dynamic_Array.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\Unorder_dynamic_Array\Unorder_dynamic_Array\obj\Debug\Unorder_dynamic_Array.exe
+F:\dotNet practicales\Unorder_dynamic_Array\Unorder_dynamic_Array\obj\Debug\Unorder_dynamic_Array.pdb
