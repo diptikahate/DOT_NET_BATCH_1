@@ -1,0 +1,7 @@
+F:\dotNet practicales\Product\Product\bin\Debug\Product.exe.config
+F:\dotNet practicales\Product\Product\bin\Debug\Product.exe
+F:\dotNet practicales\Product\Product\bin\Debug\Product.pdb
+F:\dotNet practicales\Product\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+F:\dotNet practicales\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\Product\Product\obj\Debug\Product.exe
+F:\dotNet practicales\Product\Product\obj\Debug\Product.pdb
