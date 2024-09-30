@@ -1,0 +1,7 @@
+F:\dotNet practicales\Lift_program\Lift_program\bin\Debug\Lift_program.exe.config
+F:\dotNet practicales\Lift_program\Lift_program\bin\Debug\Lift_program.exe
+F:\dotNet practicales\Lift_program\Lift_program\bin\Debug\Lift_program.pdb
+F:\dotNet practicales\Lift_program\Lift_program\obj\Debug\Lift_program.csproj.AssemblyReference.cache
+F:\dotNet practicales\Lift_program\Lift_program\obj\Debug\Lift_program.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\Lift_program\Lift_program\obj\Debug\Lift_program.exe
+F:\dotNet practicales\Lift_program\Lift_program\obj\Debug\Lift_program.pdb
