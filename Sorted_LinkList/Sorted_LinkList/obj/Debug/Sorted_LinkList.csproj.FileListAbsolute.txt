@@ -1,0 +1,7 @@
+F:\dotNet practicales\Sorted_LinkList\Sorted_LinkList\bin\Debug\Sorted_LinkList.exe.config
+F:\dotNet practicales\Sorted_LinkList\Sorted_LinkList\bin\Debug\Sorted_LinkList.exe
+F:\dotNet practicales\Sorted_LinkList\Sorted_LinkList\bin\Debug\Sorted_LinkList.pdb
+F:\dotNet practicales\Sorted_LinkList\Sorted_LinkList\obj\Debug\Sorted_LinkList.csproj.AssemblyReference.cache
+F:\dotNet practicales\Sorted_LinkList\Sorted_LinkList\obj\Debug\Sorted_LinkList.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\Sorted_LinkList\Sorted_LinkList\obj\Debug\Sorted_LinkList.exe
+F:\dotNet practicales\Sorted_LinkList\Sorted_LinkList\obj\Debug\Sorted_LinkList.pdb
