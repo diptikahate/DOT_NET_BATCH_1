@@ -1,0 +1,7 @@
+F:\dotNet practicales\CSharp_Exam\CSharp_Exam\bin\Debug\CSharp_Exam.exe.config
+F:\dotNet practicales\CSharp_Exam\CSharp_Exam\bin\Debug\CSharp_Exam.exe
+F:\dotNet practicales\CSharp_Exam\CSharp_Exam\bin\Debug\CSharp_Exam.pdb
+F:\dotNet practicales\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.csproj.AssemblyReference.cache
+F:\dotNet practicales\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.csproj.CoreCompileInputs.cache
+F:\dotNet practicales\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.exe
+F:\dotNet practicales\CSharp_Exam\CSharp_Exam\obj\Debug\CSharp_Exam.pdb
